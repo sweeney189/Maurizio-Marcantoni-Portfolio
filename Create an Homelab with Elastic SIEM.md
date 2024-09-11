@@ -38,4 +38,4 @@ At this point we need to set up the VM. To do that we need to follow these steps
 
 ### Large image
 
-![test](https://guides.github.com/activities/hello-world/branching.png)
+![test](https://github.com/sweeney189/sweeney189.github.io/blob/40b24f98626ec3932a211f33071a200bb29beb62/1.jpg)
