@@ -8,13 +8,13 @@ Through my articles, tutorials, and case studies, I aim to inspire and engage th
 
 In this section, you will find a collection of projects dedicated to the role of the SOC Analyst, featuring practical examples of monitoring, detecting, and responding to security incidents. Each project is designed to provide insight into the key skills required to operate within a Security Operations Center, using tools and techniques employed in handling cyber threats.
 
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 [Create an Homelab with Elastic SIEM](./Create an Homelab with Elastic SIEM.md).
 
 
-# Header 1
+# Red Team-Penetration Testing
+
+In this section, you will find a series of projects dedicated to Red Team Penetration Testing, featuring practical exercises on attack techniques that simulate real-world threats. Each project explores various aspects of penetration testing, from reconnaissance and scanning to exploiting vulnerabilities, providing a comprehensive experience of how Red Teams operate to identify and mitigate weaknesses in IT infrastructure.
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 
 ## Header 2
