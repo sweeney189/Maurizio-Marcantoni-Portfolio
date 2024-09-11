@@ -4,14 +4,18 @@ layout: default
 **I’m Maurizio Marcantoni, and in this space, I’ll be sharing my projects and insights into the world of cybersecurity. My mission is to explore innovative solutions for safeguarding data and digital infrastructures, while keeping a close eye on emerging trends and threats.
 Through my articles, tutorials, and case studies, I aim to inspire and engage those who, like me, are passionate about Cybersecurity. Welcome, and happy reading!**
 
+# Blue Team SOC 
+
+In this section, you will find a collection of projects dedicated to the role of the SOC Analyst, featuring practical examples of monitoring, detecting, and responding to security incidents. Each project is designed to provide insight into the key skills required to operate within a Security Operations Center, using tools and techniques employed in handling cyber threats.
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./test.html).
+[Create an Homelab with Elastic SIEM](./test.html).
 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
