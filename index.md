@@ -2,15 +2,12 @@
 layout: default
 ---
 **I’m Maurizio Marcantoni, and in this space, I’ll be sharing my projects and insights into the world of cybersecurity. My mission is to explore innovative solutions for safeguarding data and digital infrastructures, while keeping a close eye on emerging trends and threats.
-Through my articles, tutorials, and case studies, I aim to inspire and engage those who, like me, are passionate about information security. Welcome, and happy reading!**
+Through my articles, tutorials, and case studies, I aim to inspire and engage those who, like me, are passionate about Cybersecurity. Welcome, and happy reading!**
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./test.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
