@@ -1,17 +1,38 @@
 ---
 layout: default
 ---
-**I’m Maurizio Marcantoni, and in this space, I’ll be sharing my projects and insights into the world of cybersecurity. My mission is to explore innovative solutions for safeguarding data and digital infrastructures, while keeping a close eye on emerging trends and threats.
-Through my articles, tutorials, and case studies, I aim to inspire and engage those who, like me, are passionate about Cybersecurity. Welcome, and happy reading!**
+# Create an Homelab with Elastic Siem 
 
-# Blue Team SOC 
+In this section, I will walk you through setting up a home lab for Elastic Stack SIEM using the Elastic Web portal and a Kali VM. You will learn how to create some security events on the Kali VM, set up an agent to forward data to the SIEM, and query and analyze the logs in the SIEM
 
-In this section, you will find a collection of projects dedicated to the role of the SOC Analyst, featuring practical examples of monitoring, detecting, and responding to security incidents. Each project is designed to provide insight into the key skills required to operate within a Security Operations Center, using tools and techniques employed in handling cyber threats.
+# Prerequisites
+ - Virtualbox with Kali installed on it
+ - Basic Knowledge of Linux and virtualization software
+
+# Tasks
+- Install a Virtual Machine
+- Create an Elastic account
+- Configure and install Elastic Agent integration on the Linux VM to collect all the logs and forward it to the SIEM
+- Create a Dashboard to visualize security events.
+- Create Alerts for security events
+- Generate secutiry events on the VM
 
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Tasks 1 : Create an Elastic Free Account
 
-[Create an Homelab with Elastic SIEM](./test.html).
+- Sign up for a free trial to use Elastic Cloud
+- Login into the Elastic Cloud console
+- Click on "start your free trial
+- Click on "Create Deployment" and then select "Elasticsearch" as a type of Deployment"
+- Once the deployment is ready , click "continue"
 
 
+# Tasks 2 : Setting up Kali Linux Machine
+At this point we need to set up the VM. To do that we need to follow these steps :
+- Download the Kali Linux VM from the official site
+- Create a new VM with the Kali VM file in your preferred virtualization platform, such as VirtualBox or VMware.
+- Start the VM and follow the on-screen prompts to install the VM.
+- Once the installation is complete, log in to the Kali VM using the credentials “kali” for both the username and password.
+
+# Tasks 3 : Setting up Elastic Agent Integration for log collecting
 
