@@ -36,3 +36,6 @@ At this point we need to set up the VM. To do that we need to follow these steps
 
 # Tasks 3 : Setting up Elastic Agent Integration for log collecting
 
+### Large image
+
+![test](https://guides.github.com/activities/hello-world/branching.png)
