@@ -36,4 +36,5 @@ At this point we need to set up the VM. To do that we need to follow these steps
 
 # Tasks 3 : Setting up Elastic Agent Integration for log collecting
 Now we are going to install the Elastic Agent Integration. This integration is a software program that is installed on a device , such an endpoint, to collect and send data to a centralize sistem (SIEM) for analysis and monitoring. 
+
 <img src="1.jpg" width="800" />
