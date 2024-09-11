@@ -38,4 +38,4 @@ At this point we need to set up the VM. To do that we need to follow these steps
 Now we are going to install the Elastic Agent Integration. This integration is a software program that is installed on a device , such an endpoint, to collect and send data to a centralize sistem (SIEM) for analysis and monitoring. 
 ### Large image
 
-![test]([https://github.com/sweeney189/sweeney189.github.io/blob/40b24f98626ec3932a211f33071a200bb29beb62/1.jpg](https://github.com/sweeney189/sweeney189.github.io/blob/593dd0d2a384cbbdff6995e7a593d09215c5bef2/1.png))
+![test]([https://github.com/sweeney189/sweeney189.github.io/blob/40b24f98626ec3932a211f33071a200bb29beb62/1.jpg](https://github.com/sweeney189/sweeney189.github.io/blob/593dd0d2a384cbbdff6995e7a593d09215c5bef2/1.png)
