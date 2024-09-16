@@ -14,6 +14,6 @@ In this section, you will find a collection of projects dedicated to the role of
 # Red Team-Penetration Testing
 
 In this section, you will find a series of projects dedicated to Red Team Penetration Testing, featuring practical exercises on attack techniques that simulate real-world threats. Each project explores various aspects of penetration testing, from reconnaissance and scanning to exploiting vulnerabilities, providing a comprehensive experience of how Red Teams operate to identify and mitigate weaknesses in IT infrastructure.
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
 
 
