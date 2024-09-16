@@ -15,7 +15,7 @@ In this section, I will walk you through setting up a home lab for Elastic Stack
 - Configure and install Elastic Agent integration on the Linux VM to collect all the logs and forward it to the SIEM
 - Create a Dashboard to visualize security events.
 - Create Alerts for security events
-- Generate secutiry events on the VM
+- Generate security events on the VM
 
 
 # Tasks 1 : Create an Elastic Free Account
